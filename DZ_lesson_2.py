@@ -105,7 +105,7 @@ def dz3_srings():
 # Сдвиньте все элементы списка на 2 позиции вправо.
 # 3 -> [2, 3, -3, -2, -1, 0, 1]
 
-def dz5_indexes():
+def dz4_indexes():
     n = int(input('Введите число: '))
     length = n * 2 + 1
     array = []
